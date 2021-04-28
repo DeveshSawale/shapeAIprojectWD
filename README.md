@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://github.com/DeveshSawale/shapeAIprojectWD/blob/main/project.css" type="text/css" />
+
 <section id="main">
 <nav>
 <a href="#" class="logo">
