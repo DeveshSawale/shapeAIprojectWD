@@ -1,0 +1,2 @@
+# shapeAIprojectWD
+WEB-DEV porject
