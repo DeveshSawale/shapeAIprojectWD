@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="project.css" type="text/css" />
 <section id="main">
 <nav>
 <a href="#" class="logo">
