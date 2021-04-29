@@ -1,31 +1,27 @@
-<link rel="stylesheet" href="https://github.com/DeveshSawale/shapeAIprojectWD/blob/main/protext.txt" type="text/css" />
-<section id="main">
-<nav>
-<a href="#" class="logo">
-<img src="https://th.bing.com/th/id/OIP.cCqDf0Ak05-SXjQJPqr2mgHaBq?w=340&h=78&c=7&o=5&pid=1.7" alt="Logo of Rock project">
-</a>
-<span class="menu-space">
-</span>
-<ul class="menu">
-<li><a href="#">Home</a></li>
-<li><a href="#">Skills</a></li>
-<li><a href="#">Recent</a></li>
-<li><a href="#">Clients</a></li>
-<li><a href="#">Contacts</a></li>
-</ul>
-<a href="#" class="hey"><strong>Say Hi!</strong></a>
-</nav>
-</section>
-<div class="content">
-<div class="image">
-<img src="https://th.bing.com/th/id/OIP.SayjQM2YwrX3woUaw8WVPgHaFS?w=182&h=130&c=7&o=5&pid=1.7" alt="Rock">
-</div>
-<div class="main-text">
-<h1>Hello, I am The <br> Rock</h1>
-<p>Hey in this video I will be showing you guyes how to build a website using only HTML and CSS</p>
-<a href="#" class="resume-bin">See My Resume</a>
-</div>
-</div>
-   
+# SHAPEAI WEB DEV BOOTCAMP
+Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
+</b>.
+The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
+learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
+<br><br>Here's the link for you to watch the sessions as well<br>
+<a href="https://youtube.com/playlist?list=PL7zl8TDRnbun7K0fECtSMCI2hOCgLBy9a"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/WebD%20poster.png"> </a>
+<br>I got to have hands on experience on:
+<li>HTML
+<li>CSS
+<br>during these 7 days, and everything was explained from the very basics so that
+anyone with zero experience on programming can learn.
+I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
+www.shapeai.tech
+or follow SHAPEAI on:
+<li><a href=
+"https://in.linkedin.com/company/shapeai">LinkedIn</a>
+<li><a href=
+"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
+<li><a
+href=
+"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
+be</a>
+<li><a href=
+"https://github.com/shapeai">GitHub</a>
 
 
